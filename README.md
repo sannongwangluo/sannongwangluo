@@ -1,7 +1,4 @@
-# Hangzhou Sannong Network Technology · 杭州三农网络科技
-
-We build e-commerce and utility software, and open-source the in-house tools we find genuinely useful.
-我们做电商与工具软件，把内部好用的工具开源出来。
+![杭州三农网络科技有限公司](banner.png)
 
 ---
 
