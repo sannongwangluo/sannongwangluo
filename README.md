@@ -16,6 +16,19 @@ Press a hotkey, speak, and the transcript is pasted into whatever you're typing.
 
 ---
 
+## YanJi 言纪 — AI meeting minutes in Chinese · 中文 AI 会议纪要
+
+Real-time transcripts with speaker labels while the meeting runs, and a polished docx the moment it ends. Cloud streaming ASR + DeepSeek minutes.
+开会时边说边出带说话人标签的文字，散会直接出 docx 纪要。云端流式语音识别 + DeepSeek 生成纪要。
+
+[![YanJi main window](https://raw.githubusercontent.com/sannongwangluo/yanji/main/docs/images/main-window.png)](https://github.com/sannongwangluo/yanji)
+
+[![License: MIT](https://img.shields.io/github/license/sannongwangluo/yanji)](https://github.com/sannongwangluo/yanji/blob/main/LICENSE)
+
+→ [Repository · 仓库](https://github.com/sannongwangluo/yanji)
+
+---
+
 ## Contact · 联系方式
 
 - Email · 邮箱：[contact@88lv.com](mailto:contact@88lv.com)
